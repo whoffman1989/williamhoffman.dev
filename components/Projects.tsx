@@ -18,7 +18,7 @@ export default function Projects() {
     <section id="projects" className="min-h-screen flex items-center justify-center px-4 sm:px-6 py-16 sm:py-20">
       <div className="max-w-4xl w-full">
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-neutral-100 mb-8 sm:mb-12">
-          Projects
+          projects
         </h2>
 
         <div className="space-y-6 sm:space-y-8">
@@ -41,7 +41,7 @@ export default function Projects() {
                     rel="noopener noreferrer"
                     className="text-neutral-300 hover:text-neutral-100 active:text-white transition-colors duration-200 text-sm font-medium touch-manipulation"
                   >
-                    View Demo →
+                    view demo →
                   </a>
                 )}
                 {project.github && (
@@ -51,7 +51,7 @@ export default function Projects() {
                     rel="noopener noreferrer"
                     className="text-neutral-300 hover:text-neutral-100 active:text-white transition-colors duration-200 text-sm font-medium touch-manipulation"
                   >
-                    GitHub →
+                    gitHub →
                   </a>
                 )}
               </div>

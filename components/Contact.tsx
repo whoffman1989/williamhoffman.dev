@@ -3,11 +3,11 @@ export default function Contact() {
     <section id="contact" className="min-h-screen flex items-center justify-center px-4 sm:px-6 py-16 sm:py-20">
       <div className="max-w-3xl w-full text-center">
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-neutral-100 mb-6 sm:mb-8">
-          Let&apos;s connect.
+          let&apos;s connect.
         </h2>
 
         <p className="text-base sm:text-lg md:text-xl text-neutral-400 mb-8 sm:mb-12">
-          I&apos;m always interested in hearing about new projects and opportunities.
+          i&apos;m always interested in hearing about new projects and opportunities.
         </p>
 
         <div className="mb-10 sm:mb-12">
@@ -26,7 +26,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-neutral-400 hover:text-neutral-100 active:text-white transition-colors duration-200 touch-manipulation"
           >
-            GitHub
+            gitHub
           </a>
           <a
             href="https://www.linkedin.com/in/william-hoffman-66140662/"
@@ -34,12 +34,12 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-neutral-400 hover:text-neutral-100 active:text-white transition-colors duration-200 touch-manipulation"
           >
-            LinkedIn
+            linkedIn
           </a>
         </div>
 
         <div className="mt-16 sm:mt-20 text-xs sm:text-sm text-neutral-600">
-          <p>© 2025 William Hoffman. All rights reserved.</p>
+          <p>© 2025 william hoffman. all rights reserved.</p>
         </div>
       </div>
     </section>
