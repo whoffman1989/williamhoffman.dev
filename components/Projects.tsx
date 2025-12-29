@@ -7,9 +7,9 @@ interface Project {
 
 const projects: Project[] = [
   {
-    name: 'VendorPro',
-    description: 'VendorPro is an AI-powered platform that connects buyers and manufacturers, automating RFQs, pricing, and procurement in one streamlined workflow.',
-    github: 'https://github.com/whoffman1989/vendorPro_1.0',
+    name: 'pelen.io',
+    description: 'pelen is an AI-powered platform that connects buyers and manufacturers, automating RFQs, pricing, and procurement in one streamlined workflow.',
+    github: 'https://github.com/whoffman1989/pelen.io',
   },
 ];
 

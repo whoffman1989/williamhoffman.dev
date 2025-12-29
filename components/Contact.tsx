@@ -12,10 +12,10 @@ export default function Contact() {
 
         <div className="mb-10 sm:mb-12">
           <a
-            href="mailto:info@williamhoffman.dev"
+            href="mailto:whoffman@pelen.io"
             className="text-lg sm:text-xl md:text-2xl text-neutral-100 hover:text-neutral-300 active:text-neutral-400 transition-colors duration-200 font-medium break-all touch-manipulation"
           >
-            info@williamhoffman.dev
+            whoffman@pelen.io
           </a>
         </div>
 

@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 
-const roles = ['Builder', 'Designer', 'Problem Solver'];
+const roles = ['builder', 'designer', 'problem solver'];
 
 export default function TypewriterText() {
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0);

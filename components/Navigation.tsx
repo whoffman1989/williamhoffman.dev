@@ -16,19 +16,19 @@ export default function Navigation() {
               href="#about"
               className="text-neutral-400 hover:text-neutral-100 active:text-white transition-colors duration-200 text-sm sm:text-base font-medium touch-manipulation"
             >
-              About
+              about
             </a>
             <a
               href="#projects"
               className="text-neutral-400 hover:text-neutral-100 active:text-white transition-colors duration-200 text-sm sm:text-base font-medium touch-manipulation"
             >
-              Projects
+              projects
             </a>
             <a
               href="#contact"
               className="text-neutral-400 hover:text-neutral-100 active:text-white transition-colors duration-200 text-sm sm:text-base font-medium touch-manipulation"
             >
-              Contact
+              contact
             </a>
           </div>
         </nav>
