@@ -8,7 +8,7 @@ export default function Hero() {
     >
       <div className="max-w-4xl w-full text-center">
         <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold mb-6 tracking-tight">
-          William Hoffman
+          william hoffman
         </h1>
 
         <p className="text-lg sm:text-xl md:text-2xl text-neutral-400 mb-8 sm:mb-12 font-light min-h-[2rem]">
@@ -20,13 +20,13 @@ export default function Hero() {
             href="#projects"
             className="px-6 sm:px-8 py-3 sm:py-4 bg-neutral-100 text-neutral-900 rounded-lg font-medium hover:bg-neutral-200 active:bg-neutral-300 transition-colors duration-200 w-full sm:w-auto text-center touch-manipulation"
           >
-            Projects
+            projects
           </a>
           <a
             href="#contact"
             className="px-6 sm:px-8 py-3 sm:py-4 bg-transparent text-neutral-100 border border-neutral-700 rounded-lg font-medium hover:bg-neutral-800 active:bg-neutral-700 transition-colors duration-200 w-full sm:w-auto text-center touch-manipulation"
           >
-            Contact
+            contact
           </a>
         </div>
       </div>
